@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Tournament\Tournament\bin\Debug\net6.0-windows\Tournament.exe
+C:\Users\Admin\source\repos\Tournament\Tournament\bin\Debug\net6.0-windows\Tournament.deps.json
+C:\Users\Admin\source\repos\Tournament\Tournament\bin\Debug\net6.0-windows\Tournament.runtimeconfig.json
+C:\Users\Admin\source\repos\Tournament\Tournament\bin\Debug\net6.0-windows\Tournament.dll
+C:\Users\Admin\source\repos\Tournament\Tournament\bin\Debug\net6.0-windows\ref\Tournament.dll
+C:\Users\Admin\source\repos\Tournament\Tournament\bin\Debug\net6.0-windows\Tournament.pdb
+C:\Users\Admin\source\repos\Tournament\Tournament\obj\Debug\net6.0-windows\Tournament.Form1.resources
+C:\Users\Admin\source\repos\Tournament\Tournament\obj\Debug\net6.0-windows\Tournament.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Tournament\Tournament\obj\Debug\net6.0-windows\Tournament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Tournament\Tournament\obj\Debug\net6.0-windows\Tournament.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tournament\Tournament\obj\Debug\net6.0-windows\Tournament.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tournament\Tournament\obj\Debug\net6.0-windows\Tournament.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tournament\Tournament\obj\Debug\net6.0-windows\Tournament.dll
+C:\Users\Admin\source\repos\Tournament\Tournament\obj\Debug\net6.0-windows\ref\Tournament.dll
+C:\Users\Admin\source\repos\Tournament\Tournament\obj\Debug\net6.0-windows\Tournament.pdb
+C:\Users\Admin\source\repos\Tournament\Tournament\obj\Debug\net6.0-windows\Tournament.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Tournament\Tournament\obj\Debug\net6.0-windows\Tournament.Properties.Resources.resources
